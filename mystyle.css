@@ -1,0 +1,112 @@
+/*共通の設定*/
+
+a{
+  text-decoration: none;
+}
+
+body{
+  background: #EEEEEE;
+  margin: 0 auto;
+  font-family: helvetica;
+}
+
+/*headerのところ*/
+
+header .container{
+  width: 100%;
+  margin: 0 auto;
+  background-color: white;
+  overflow: hidden;
+}
+
+nav{
+  height: 93px;
+  margin: 0 auto;
+}
+
+header h1{
+  display: inline;
+  width: 10%;
+  height: 80px;
+  float: left;
+  margin: 0 auto;
+  padding-left: 50px;
+  line-height: 80px;
+}
+
+nav .list{
+  list-style-type: none;
+  height: 80px;
+  line-height:80px;
+  padding: 0;
+  text-align: center;
+}
+
+.item{
+  display: inline-block;
+  padding: 0px 10px;
+}
+/*セクションのところ*/
+section .container{
+  margin: 0 auto;
+  width: 1100px;
+  height: 500px;
+  padding-top: 60px;
+  overflow: hidden;
+}
+
+.mood{
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+}
+
+ img{
+  float: right;
+  clear: left;
+}
+
+.desk p{
+  font-size: 40px;
+  letter-spacing: 6px;
+  color: white;
+  position: absolute;
+  bottom: 100px;
+  top: 200px;
+  }
+.desk{
+  width: 400px;
+}
+
+.pull-left{
+  float: left;
+  padding-right: 50px;
+  padding-left: 10px;
+}
+
+/*3カラムの所*/
+
+.table{
+  width: 1050px;
+  height: 500px;
+  margin: 0 auto;
+}
+
+.calm{
+  width: 350px;
+  height: 500px;
+  padding: 30px;
+  background-color: white;
+  border: solid blue;
+  float:left;
+  box-sizing: border-box;
+}
+
+.calm p{
+  font-size: 20px;
+}
+
+.calm h1, h2, h3{
+  text-decoration: none;
+  font-size: 30px;
+}

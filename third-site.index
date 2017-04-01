@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+ <meta charset="utf-8">
+ <link rel="stylesheet" type=text/css href="mystyle.css">
+   <link rel="stylesheet" type="text/css" href="normalize.css">
+  <title>
+  スニーカーライフ
+  </title>
+</head>
+
+<body>
+<header>
+  <div class="container">
+    <nav>
+      <h1>10X</h1>
+      <ul class="list">
+        <a href=""><li class="item">News</li></a>
+        <a href=""><li class="item">About</li></a>
+        <a href=""><li class="item">People</li></a>
+        <a href=""><li class="item">Jobs</li></a>
+      </ul>
+    </nav>
+  </div>
+
+
+</header>
+
+<main>
+
+<section class="mood">
+    <div class="container">
+      <image src="perils.jpg" width="900" height="600" alt="apple">
+       <div class="desk pull-left">
+         <p>We exist to create a new<br>banking experience - one that<br>is more diverse, open and fair</p>
+       </div>
+    </div>
+</section>
+
+<section class="brand">
+ <div class="table">
+  <div class="container">
+
+  <div class="calm">
+    <h1>Antony Jenkins: we can build
+      a better bankig system</h1>
+    <p>Antony talks to FinTeck Insider
+      about founding 10x, the future
+      of banking and transitioning
+      from a major bank to startup land.</p>
+  </div>
+  <div class="calm">
+      <h2>Antony Jenkins on BBC
+        Radio 4 Bottom Line</h2>
+      <p>Antony shares his insights with
+      presenter Evan Davis on Fintech and how 10x can
+    help incumbents and challengers.</p>
+  </div>
+  <div class="calm">
+      <h3>Ex-Barclays cheif on
+        his interest in Blockchain</h3>
+      <p>Blockchain Board Director Antony Jenkins
+       explains why he's interested in blockchain
+      technology, and talks about how the
+     technology is complementary to his work at
+      10x Future Technologies.</p>
+
+  </div>
+</div>
+</section>
+
+<section>
+<div class="">
+  <div class="container">
+<img src="two.jpg" width="900" height="600">
+</section>
+
+</main>
+
+</body>
+
+<footer>
+
+
+  <div class="footer">
+
+  </div>
+  <div class="footer">
+  </div>
+  <div class="footer">
+  </div>
+
+</footer>
+</html>
